@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FindIndexofFirstOccurrenceinString {
+public class FindIndexofFirstOccurrenceinString { //28
 
     public static int strStr(String haystack, String needle) {
 

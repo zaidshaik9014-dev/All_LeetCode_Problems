@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ValidPalindrome {
+public class ValidPalindrome { //125
     public static boolean isPalindrome(String s) {
         s = s.toLowerCase().replaceAll("[A-Za-z0-9]", "");
         int i = 0;

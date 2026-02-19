@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class LengthofLastWord {
-    public static int lengthOfLastWord(String s) {
+    public static int lengthOfLastWord(String s) { //58
         String str = s.trim();//Used to remove the extra spaces
         int count = 0;
 
