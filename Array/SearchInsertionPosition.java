@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SearchInsertionPosition {
+public class SearchInsertionPosition { //35
     public static int searchInsert(int[] nums, int target) {
         int start = 0;
         int end = nums.length - 1;
