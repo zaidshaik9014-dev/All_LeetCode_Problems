@@ -9,6 +9,7 @@ public class MajorityElement_169 {
 
         for(int i = 0; i < nums.length; i++) {
 
+            
             if(count == 0) {
                 cand = nums[i];
             }
